@@ -1,0 +1,23 @@
+{
+  "name": "assorted-hooks",
+  "version": "1.0.0",
+  "description": "Just some hooks I'd like to reuse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luroz/assorted-hooks.git"
+  },
+  "author": "Luis Pirela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luroz/assorted-hooks/issues"
+  },
+  "homepage": "https://github.com/Luroz/assorted-hooks#readme",
+  "dependencies": {
+    "awesome-debounce-promise": "^2.1.0",
+    "react": "^17.0.1"
+  }
+}
